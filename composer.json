@@ -1,0 +1,10 @@
+{
+    "name": "slik/zend1",
+    "authors": [
+        {
+            "name": "Denis Sokolov",
+            "email": "denis@slik.eu"
+        }
+    ],
+    "require": {}
+}
